@@ -26,7 +26,7 @@ fetch(`https://dashboard.elering.ee/api/nps/price?start=${start}&end=${end}`)
     });
   });
 
-const labels = ["January", "February", "March", "April", "May", "June"];
+const labels = ["January", "February", "March", "April", "May", "June", "July"];
 
 const data = {
   labels: labels,
