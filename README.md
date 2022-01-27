@@ -3,9 +3,12 @@
 
 ## Eesmärk
 
+Süveneda energiatemaatikasse ja proovida aru saada, milliseid enerigaga seotud andmeid on APIde kaudu võimalik kätte saada. 
 
 ## To-do list
 
+- Saada kätte andmed api abil
+- Andmed esitleda graafiku abil
 
 ### Lingid
 
