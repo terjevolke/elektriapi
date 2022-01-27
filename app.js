@@ -3,8 +3,8 @@ const y = today.getFullYear();
 const m = today.getMonth();
 const labels = [];
 const priceData = [];
-const start = new Date(y, m, 0).toISOString();
-const end = new Date(y, m, 1).toISOString();
+const start = new Date(y, m, 1).toISOString();
+const end = new Date(y, m, 2).toISOString();
 //console.log(start);
 //console.log(end);
 
@@ -17,11 +17,12 @@ fetch(`https://dashboard.elering.ee/api/nps/price?start=${start}&end=${end}`)
       //console.log(res);
       const date = new Date(el.timestamp * 1000);
       const options = {
-        year: "numeric",
+        //year: "numeric",
         month: "long",
         day: "2-digit",
         hour: "2-digit",
-        second: "2-digit",
+        minute: "2-digit",
+        //second: "2-digit",
       };
       const localDate = date.toLocaleString("et-EE", options);
       //console.log(localDate, el.price);
@@ -35,7 +36,7 @@ fetch(`https://dashboard.elering.ee/api/nps/price?start=${start}&end=${end}`)
       labels: labels,
       datasets: [
         {
-          label: "Hind",
+          label: "Hinnainfo",
           backgroundColor: "rgb(255, 99, 132)",
           borderColor: "rgb(255, 99, 132)",
           data: priceData,
