@@ -28,3 +28,8 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele
 - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
 - Üks pehme oskus, mida õppisin ja endas arendasin
 - Üks tehniline oskus, mida õppisin ja endas arendasin
+
+- Sander Vilter
+     - Üks pehme oskus, mida õppisin ja endas arendasin: teiste ideedega arvestamine ja koostöö sujuvus
+     - Üks tehniline oskus, mida õppisin ja endas arendasin: tunnen rohkem javascripti
+     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: hetkel ülesanne mida ma tegin, sobis mulle, arendasin ennast javascripti osas, sain palju uut teada            api-de kohta ning tean milleks kasutatakse Laravel-i 
