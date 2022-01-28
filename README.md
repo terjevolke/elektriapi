@@ -50,9 +50,9 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele
      - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
      
 - Ragnar Lall
-     - Üks pehme oskus, mida õppisin ja endas arendasin: 
-     - Üks tehniline oskus, mida õppisin ja endas arendasin: 
-     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+     - Üks pehme oskus, mida õppisin ja endas arendasin: tiimitöö
+     - Üks tehniline oskus, mida õppisin ja endas arendasin: javascripti, chart.js'i ja APi teemat tunnen rohkem kui enne projekti tundsin.
+     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:ei
      
 - Helen Reimand
      - Üks pehme oskus, mida õppisin ja endas arendasin: 
