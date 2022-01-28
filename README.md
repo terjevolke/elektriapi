@@ -39,9 +39,9 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele
 
 - Terje Volke
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  - Üks pehme oskus, mida õppisin ja endas arendasin: remotes töötamine
+  - Üks tehniline oskus, mida õppisin ja endas arendasin: apide kasutamine, dev toolsi lugemine, väliste andmete chart.js-ga liidestamine
+  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: sain olla kõigis rollides (projektijuht, analüütik, õpetaja, õpilane, omaette töötamine), väga hästi sobis
 
 - Kätlin Maidle
 
