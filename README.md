@@ -62,6 +62,6 @@ Iga tiimi liikme nime ja vastuseid kolmele küsimusele
   - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:ei
 
 - Helen Reimand
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  - Üks pehme oskus, mida õppisin ja endas arendasin: meeskonnatöö, andmete analüüsimine
+  - Üks tehniline oskus, mida õppisin ja endas arendasin: html, javascript, chartjs
+  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: ei
