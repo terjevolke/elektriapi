@@ -11,7 +11,7 @@ Süveneda energiatemaatikasse ja proovida aru saada, milliseid enerigaga seotud 
 
 ### Lingid
 
-- Projekti repo - https://github.com/terjevolke/elektriapi/blob/master/app.js
+- Projekti repo - https://github.com/terjevolke/elektriapi
 - Terje tarbimise API - https://api.ta20truu.itmajakas.ee/api/energia
 
 ### Meeskond
