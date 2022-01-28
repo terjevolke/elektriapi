@@ -160,7 +160,7 @@ fetch(`https://api.ta20truu.itmajakas.ee/api/energia`)
       labels: Object.keys(monthly),
       datasets: [
         {
-          label: "Tarbimine",
+          label: "Tarbimine kWh",
           backgroundColor: "rgb(255, 99, 132)",
           borderColor: "rgb(255, 99, 132)",
           data: monthly,
@@ -174,5 +174,5 @@ fetch(`https://api.ta20truu.itmajakas.ee/api/energia`)
       options: {},
     };
 
-    const myChart = new Chart(document.getElementById("myChart"), config);
+    const myChart2 = new Chart(document.getElementById("myChart2"), config);
   });
